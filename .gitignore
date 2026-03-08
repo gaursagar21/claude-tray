@@ -1,0 +1,32 @@
+# Build artifacts
+.build/
+*.o
+*.d
+*.dia
+
+# Swift Package Manager
+.swiftpm/
+
+# Xcode
+*.xcodeproj/
+xcuserdata/
+*.xccheckout
+*.moved-aside
+DerivedData/
+
+# App bundles
+*.app/
+
+# IDE
+.idea/
+*.swp
+*.swo
+.DS_Store
+
+# Claude Code
+.claude/
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
