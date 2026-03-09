@@ -89,6 +89,11 @@ Click a trace to open its execution timeline. The timeline shows each step in or
 
 **API Log view** shows raw HTTP request and response pairs, with token counts, latency, model, and status code. Use this for debugging specific API calls. The request and response body are both available in a JSON viewer with syntax highlighting.
 
+## References
+
+I used the following excellent public works as a way to get started:
+- [Reverse engineering Claude Code](https://kirshatrov.com/posts/claude-code-internals)
+- [claude-reverse-proxy](https://github.com/seifghazi/claude-code-proxy)
 
 
 ## License
