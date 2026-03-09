@@ -8,15 +8,15 @@ A macOS menu bar app that monitors Claude Code in real time. It acts as a transp
 
 **Traces view**
 
-<img src="docs/Screenshot%202026-03-08%20at%207.34.06%E2%80%AFPM.png" width="650" alt="The Traces view with past Claude Code sessions grouped by project in the left sidebar, a step-by-step execution timeline in the center showing tool calls and Claude responses, and the selected step's full content in the right panel." />
+<img src="docs/1.png" width="650" alt="The Traces view with past Claude Code sessions grouped by project in the left sidebar, a step-by-step execution timeline in the center showing tool calls and Claude responses, and the selected step's full content in the right panel." />
 
 **Menu bar**
 
-<img src="docs/Screenshot%202026-03-08%20at%207.33.28%E2%80%AFPM.png" width="650" alt="ClaudeTray menu bar popup showing proxy status, request count, and controls to open the monitor, stop the proxy, or clear captured requests." />
+<img src="docs/2.png" width="650" alt="ClaudeTray menu bar popup showing proxy status, request count, and controls to open the monitor, stop the proxy, or clear captured requests." />
 
 **API Log view**
 
-<img src="docs/Screenshot%202026-03-08%20at%207.33.50%E2%80%AFPM.png" width="650" alt="The API Log view with captured requests listed on the left, a conversation timeline in the center showing system, user, and Claude turns, and a detail panel on the right with latency, token counts, and model information." />
+<img src="docs/3.png" width="650" alt="The API Log view with captured requests listed on the left, a conversation timeline in the center showing system, user, and Claude turns, and a detail panel on the right with latency, token counts, and model information." />
 
 ## What it does
 
